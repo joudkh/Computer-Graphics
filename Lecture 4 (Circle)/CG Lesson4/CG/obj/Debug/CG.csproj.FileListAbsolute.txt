@@ -1,0 +1,33 @@
+C:\Users\Joud Khattab\Desktop\CG Lesson3\CG\bin\Debug\CG.exe.config
+C:\Users\Joud Khattab\Desktop\CG Lesson3\CG\bin\Debug\CG.exe
+C:\Users\Joud Khattab\Desktop\CG Lesson3\CG\bin\Debug\CG.pdb
+C:\Users\Joud Khattab\Desktop\CG Lesson3\CG\obj\Debug\CG.csprojAssemblyReference.cache
+C:\Users\Joud Khattab\Desktop\CG Lesson3\CG\obj\Debug\CG.Form.resources
+C:\Users\Joud Khattab\Desktop\CG Lesson3\CG\obj\Debug\CG.Properties.Resources.resources
+C:\Users\Joud Khattab\Desktop\CG Lesson3\CG\obj\Debug\CG.csproj.GenerateResource.cache
+C:\Users\Joud Khattab\Desktop\CG Lesson3\CG\obj\Debug\CG.csproj.CoreCompileInputs.cache
+C:\Users\Joud Khattab\Desktop\CG Lesson3\CG\obj\Debug\CG.csproj.CopyComplete
+C:\Users\Joud Khattab\Desktop\CG Lesson3\CG\obj\Debug\CG.exe
+C:\Users\Joud Khattab\Desktop\CG Lesson3\CG\obj\Debug\CG.pdb
+C:\Users\Joud Khattab\Desktop\Lecture 3 (Simple Shapes)\CG Lesson3\CG\bin\Debug\CG.exe.config
+C:\Users\Joud Khattab\Desktop\Lecture 3 (Simple Shapes)\CG Lesson3\CG\bin\Debug\CG.exe
+C:\Users\Joud Khattab\Desktop\Lecture 3 (Simple Shapes)\CG Lesson3\CG\bin\Debug\CG.pdb
+C:\Users\Joud Khattab\Desktop\Lecture 3 (Simple Shapes)\CG Lesson3\CG\obj\Debug\CG.csprojAssemblyReference.cache
+C:\Users\Joud Khattab\Desktop\Lecture 3 (Simple Shapes)\CG Lesson3\CG\obj\Debug\CG.Form.resources
+C:\Users\Joud Khattab\Desktop\Lecture 3 (Simple Shapes)\CG Lesson3\CG\obj\Debug\CG.Properties.Resources.resources
+C:\Users\Joud Khattab\Desktop\Lecture 3 (Simple Shapes)\CG Lesson3\CG\obj\Debug\CG.csproj.GenerateResource.cache
+C:\Users\Joud Khattab\Desktop\Lecture 3 (Simple Shapes)\CG Lesson3\CG\obj\Debug\CG.csproj.CoreCompileInputs.cache
+C:\Users\Joud Khattab\Desktop\Lecture 3 (Simple Shapes)\CG Lesson3\CG\obj\Debug\CG.csproj.CopyComplete
+C:\Users\Joud Khattab\Desktop\Lecture 3 (Simple Shapes)\CG Lesson3\CG\obj\Debug\CG.exe
+C:\Users\Joud Khattab\Desktop\Lecture 3 (Simple Shapes)\CG Lesson3\CG\obj\Debug\CG.pdb
+C:\Users\Joud Khattab\Desktop\Lecture 4 (Circle)\CG Lesson4\CG\bin\Debug\CG.exe.config
+C:\Users\Joud Khattab\Desktop\Lecture 4 (Circle)\CG Lesson4\CG\bin\Debug\CG.exe
+C:\Users\Joud Khattab\Desktop\Lecture 4 (Circle)\CG Lesson4\CG\bin\Debug\CG.pdb
+C:\Users\Joud Khattab\Desktop\Lecture 4 (Circle)\CG Lesson4\CG\obj\Debug\CG.csprojAssemblyReference.cache
+C:\Users\Joud Khattab\Desktop\Lecture 4 (Circle)\CG Lesson4\CG\obj\Debug\CG.Form.resources
+C:\Users\Joud Khattab\Desktop\Lecture 4 (Circle)\CG Lesson4\CG\obj\Debug\CG.Properties.Resources.resources
+C:\Users\Joud Khattab\Desktop\Lecture 4 (Circle)\CG Lesson4\CG\obj\Debug\CG.csproj.GenerateResource.cache
+C:\Users\Joud Khattab\Desktop\Lecture 4 (Circle)\CG Lesson4\CG\obj\Debug\CG.csproj.CoreCompileInputs.cache
+C:\Users\Joud Khattab\Desktop\Lecture 4 (Circle)\CG Lesson4\CG\obj\Debug\CG.csproj.CopyComplete
+C:\Users\Joud Khattab\Desktop\Lecture 4 (Circle)\CG Lesson4\CG\obj\Debug\CG.exe
+C:\Users\Joud Khattab\Desktop\Lecture 4 (Circle)\CG Lesson4\CG\obj\Debug\CG.pdb
